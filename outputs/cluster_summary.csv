@@ -1,0 +1,6 @@
+Cluster,Customer Count,Percentage (%),Annual Income (k$) Mean,Annual Income (k$) Median,Annual Income (k$) Min,Annual Income (k$) Max,Spending Score (1-100) Mean,Spending Score (1-100) Median,Spending Score (1-100) Min,Spending Score (1-100) Max,Age Mean,Segment Label
+0,81,40.5,55.3,54.0,39,76,49.52,50.0,34,61,42.72,"Moderate Income, Moderate Spending"
+1,39,19.5,86.54,79.0,69,137,82.13,83.0,63,97,32.69,"High Income, High Spending"
+2,22,11.0,25.73,24.5,15,39,79.36,77.0,61,99,25.27,"Low Income, High Spending"
+3,35,17.5,88.2,85.0,70,137,17.11,16.0,1,39,41.11,"High Income, Low Spending"
+4,23,11.5,26.3,25.0,15,39,20.91,17.0,3,40,45.22,"Low Income, Low Spending"
